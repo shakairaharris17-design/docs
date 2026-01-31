@@ -1,0 +1,14 @@
+<speak>
+  <voice name="en-GB-Female">
+    <prosody rate="slow" pitch="+1%">
+      Welcome back, <break time="400ms"/> Mr. Hicks…
+      <break time="500ms"/>
+      and any guest that may be with him.
+      <break time="700ms"/>
+      <emphasis level="moderate">Buckle up</emphasis>…
+      <break time="400ms"/>
+      and enjoy the ride in the
+      <emphasis level="strong">Batmobile</emphasis>.
+    </prosody>
+  </voice>
+</speak>
